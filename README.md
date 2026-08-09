@@ -2,6 +2,8 @@
 
 GUI helper for the `crunch` wordlist generator, plus a built-in "smart" generator for prefix/suffix patterns around custom keywords. It offers profiles, previews, estimates, and optional post-processing.
 
+![CappinCrunch GUI](https://github.com/sweetenloe/CappinCrunch/blob/main/screenshot.png)
+
 ## What it uses
 - Python 3
 - Tkinter (GUI)
